@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2930437 */
+  src: url('iconfont.woff2?t=1636702945572') format('woff2'),
+       url('iconfont.woff?t=1636702945572') format('woff'),
+       url('iconfont.ttf?t=1636702945572') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-laba:before {
+  content: "\e600";
+}
+
+.icon-wifi:before {
+  content: "\e7e0";
+}
+
+.icon-shurufa:before {
+  content: "\e63b";
+}
+
+.icon-dianchi:before {
+  content: "\e605";
+}
+
+.icon-shitu:before {
+  content: "\e612";
+}
+
+.icon-ppt1:before {
+  content: "\e61e";
+}
+
+.icon-excel:before {
+  content: "\e611";
+}
+
+.icon-word:before {
+  content: "\e624";
+}
+
+.icon-wangluoguanli:before {
+  content: "\e610";
+}
+
+.icon-lajitong:before {
+  content: "\e623";
+}
+
+.icon-diannao1:before {
+  content: "\e6f3";
+}
+
+.icon-chrome:before {
+  content: "\e647";
+}
+
+.icon-24gf-folderOpen:before {
+  content: "\eac5";
+}
+
+.icon-github:before {
+  content: "\e64c";
+}
+
+.icon-sousuo:before {
+  content: "\e60f";
+}
+
+.icon-bg-ie-browser:before {
+  content: "\e641";
+}
+

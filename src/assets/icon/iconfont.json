@@ -1,0 +1,121 @@
+{
+  "id": "2930437",
+  "name": "win11",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201560",
+      "name": "喇叭",
+      "font_class": "laba",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4766957",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "6582352",
+      "name": "输入法",
+      "font_class": "shurufa",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11464294",
+      "name": "电池",
+      "font_class": "dianchi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "23023455",
+      "name": "视图",
+      "font_class": "shitu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1388136",
+      "name": "ppt",
+      "font_class": "ppt1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1388107",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1388144",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "9870819",
+      "name": "网络管理",
+      "font_class": "wangluoguanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13075009",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "23224261",
+      "name": "电脑",
+      "font_class": "diannao1",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "1347470",
+      "name": "chrome",
+      "font_class": "chrome",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "7594875",
+      "name": "24gf-folderOpen",
+      "font_class": "24gf-folderOpen",
+      "unicode": "eac5",
+      "unicode_decimal": 60101
+    },
+    {
+      "icon_id": "8760187",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "10496928",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11882879",
+      "name": "bg-ie-browser",
+      "font_class": "bg-ie-browser",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
